@@ -22,7 +22,7 @@ The data for [Augspurger (March 2017)](Augspurger_2017_03.csv) was obtained from
 - Prompt the user and ask them if they want to compute a probability of the wind speed being less than OR greater than/equal-to a value they will enter, and then return the requested probability
 
 ### JavaDoc
-This is the JavaDoc (add link please) of the program
+This is the [JavaDoc](docs/index-all.html) of the program
 
 ### JavaFx
 A [JavaFx](JavaFX-cumProbability) program was written on IntelliJ to generate the Cumulative Probability of [cumProbability.txt](cumProbability.txt)
